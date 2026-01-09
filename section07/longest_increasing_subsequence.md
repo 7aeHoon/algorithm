@@ -65,7 +65,7 @@ int LIS(const vector<int>& v) {
 }
 ```
 
-### 6. 역추적하여 원소를 찾는 방법
+### 6. 역추적하여 원소를 찾는 첫 번째 방법
 - 이전 위치의 인덱스를 기록합니다.
 - 마지막에 배열을 뒤집어 원소를 역추적합니다.
 - 시간 복잡도 `O(N²)`
@@ -102,5 +102,47 @@ vector<int> getLIS(vector<int> v) {
     reverse(lis.begin(), lis.end());
 
     return lis;
+}
+```
+
+### 7. 역추적하여 원소를 찾는 두 번째 방법
+- 자신이 어느 위치에 저장됬는지 기록하기 위한 record 배열을 사용합니다.
+- 마지막에 배열을 뒤집어 원소를 역추적합니다.
+- 시간 복잡도 `O(NlogN)`
+
+```cpp
+vector<int> getLIS(const vector<int>& v) {
+    int N = v.size();
+    vector<int> lis;
+    vector<int> record(N, -1);
+
+    for (int i = 0; i < N; i++) {
+        int num = v[i];
+        auto it = lower_bound(lis.begin(), lis.end(), num);
+        int pos = it - lis.begin();
+
+        if (it == lis.end()) {
+            lis.push_back(num);
+        } else {
+            *it = num;
+        }
+
+        record[i] = pos;
+    }
+
+    vector<int> result;
+
+    int target = lis.size() - 1;
+
+    for (int i = N - 1; i >= 0; i--) {
+        if (record[i] == target) {
+            result.push_back(v[i]); 
+            target--;
+        }
+    }
+
+    reverse(result.begin(), result.end());
+
+    return result;
 }
 ```
