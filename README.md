@@ -28,8 +28,8 @@
 - 투 포인터(Two Pointer)
 
 #### 섹션 07
-- 이분탐색(Bianry Search)
-- 최장 증가 부분 수열(LIS)
+- [이분탐색(Bianry Search)](https://github.com/7aeHoon/Kundol-Algorithm-Study/blob/main/section07/binary_search.md)
+- [최장 증가 부분 수열(LIS)](https://github.com/7aeHoon/Kundol-Algorithm-Study/blob/main/section07/longest_increasing_subsequence.md)
 
 #### 섹션 08
 - 동적 계획법(DP)
