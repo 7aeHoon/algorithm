@@ -32,7 +32,7 @@
 - [최장 증가 부분 수열(LIS)](https://github.com/7aeHoon/Kundol-Algorithm-Study/blob/main/section07/longest_increasing_subsequence.md)
 
 #### 섹션 08
-- 동적 계획법(DP)
+- [동적 계획법(DP)](https://github.com/7aeHoon/Kundol-Algorithm-Study/blob/main/section08/dynamic_programming.md)
 
 #### 섹션 09
 - 팬윅 트리(Fenwick Tree)
