@@ -20,4 +20,5 @@
 #### 18. 플로이드 워셜(Floyd-Warshall)
 #### 19. 벨만 포드(Bellman-Ford)
 #### 20. 유니온 파인드(Union-Find)
-#### 21. 최장 공통 부분 수열(LCS)
+#### 21. 위상 정렬(Topological Sort)
+#### 22. 최장 공통 부분 수열(LCS)
