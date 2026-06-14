@@ -1,6 +1,6 @@
 ## 자주 사용하는 알고리즘 정리
 
-#### 1. 순열(Permutation)
+#### 1. [순열(Permutation)](https://github.com/7aeHoon/algorithm/tree/main/permutation)
 #### 2. 조합(Combination)
 #### 3. 누적합(Prefix Sum)
 #### 4. 구현
