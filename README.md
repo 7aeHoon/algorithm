@@ -1,7 +1,7 @@
 ## 자주 사용하는 알고리즘 정리
 
 #### 1. [순열(Permutation)](https://github.com/7aeHoon/algorithm/tree/main/permutation)
-#### 2. 조합(Combination)
+#### 2. [조합(Combination)](https://github.com/7aeHoon/algorithm/blob/main/combination/README.md)
 #### 3. 누적합(Prefix Sum)
 #### 4. 구현
 #### 5. 깊이 우선 탐색(DFS)
