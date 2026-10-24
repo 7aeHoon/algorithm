@@ -46,12 +46,12 @@
 
 학습 목표: 빈도 집계, 중복 제거, 키 설계와 평균 조회 복잡도를 설명한다.
 
-- [ ] **001 · 개념** [LC 1. Two Sum](https://leetcode.com/problems/two-sum/) — 합이 목표값이 되는 두 원소의 인덱스를 찾는다.
-- [ ] **002 · 개념** [LC 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — 배열에 중복 값이 존재하는지 판별한다.
-- [ ] **003 · 기본** [PG 42576. 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) — 중복 이름을 포함한 빈도 집계를 연습한다.
-- [ ] **004 · 기본** [PG 42577. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) — 접두사 관계를 검사한다.
-- [ ] **005 · 응용** [PG 42578. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) — 종류별 집계와 경우의 수를 결합한다.
-- [ ] **006 · 응용** [PG 92334. 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) — 중복 신고 제거와 사용자별 상태를 관리한다.
+- [x] **001 · 개념** [LC 1. Two Sum](https://leetcode.com/problems/two-sum/) — 합이 목표값이 되는 두 원소의 인덱스를 찾는다.
+- [x] **002 · 개념** [LC 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — 배열에 중복 값이 존재하는지 판별한다.
+- [x] **003 · 기본** [PG 42576. 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) — 중복 이름을 포함한 빈도 집계를 연습한다.
+- [x] **004 · 기본** [PG 42577. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) — 접두사 관계를 검사한다.
+- [x] **005 · 응용** [PG 42578. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) — 종류별 집계와 경우의 수를 결합한다.
+- [x] **006 · 응용** [PG 92334. 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) — 중복 신고 제거와 사용자별 상태를 관리한다.
 
 <a id="topic-02"></a>
 
