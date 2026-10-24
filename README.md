@@ -52,6 +52,12 @@
 - [x] **004 · 기본** [PG 42577. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) — 접두사 관계를 검사한다.
 - [x] **005 · 응용** [PG 42578. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) — 종류별 집계와 경우의 수를 결합한다.
 - [x] **006 · 응용** [PG 92334. 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) — 중복 신고 제거와 사용자별 상태를 관리한다.
+#### 풀이 기록
+
+| 문제 | 막혔던 점 · 배운 점 |
+|---|---|
+| 전화번호 목록 | 사전순 정렬하면 접두사가 같은 번호가 모이므로 인접한 번호만 비교하면 된다. |
+| 신고 결과 받기 | 중복 신고를 제거한 경우에만 횟수를 증가시켜야 한다. 신고당한 사람을 기준으로 신고자 집합을 저장하면 별도 카운트가 필요 없다. |
 
 <a id="topic-02"></a>
 
