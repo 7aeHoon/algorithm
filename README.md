@@ -65,11 +65,11 @@
 
 학습 목표: 사용자 정의 비교 기준을 설계하고 정렬로 탐색과 구간 처리를 단순화한다.
 
-- [ ] **007 · 개념** [LC 912. Sort an Array](https://leetcode.com/problems/sort-an-array/) — 배열을 정렬한다. 병합 정렬을 직접 구현한다.
-- [ ] **008 · 기본** [PG 42748. K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) — 구간을 추출하고 정렬한다.
-- [ ] **009 · 응용** [PG 42747. H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) — 정렬한 배열에서 조건을 만족하는 경계를 찾는다.
-- [ ] **010 · 응용** [PG 42746. 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) — 문자열 결합 결과를 기준으로 비교한다.
-- [ ] **011 · 개념** [LC 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) — 겹치는 구간을 합친다.
+- [x] **007 · 개념** [LC 912. Sort an Array](https://leetcode.com/problems/sort-an-array/) — 배열을 정렬한다. 병합 정렬을 직접 구현한다.
+- [x] **008 · 기본** [PG 42748. K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) — 구간을 추출하고 정렬한다.
+- [x] **009 · 응용** [PG 42747. H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) — 정렬한 배열에서 조건을 만족하는 경계를 찾는다.
+- [x] **010 · 응용** [PG 42746. 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) — 문자열 결합 결과를 기준으로 비교한다.
+- [x] **011 · 개념** [LC 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) — 겹치는 구간을 합친다.
 
 <a id="topic-03"></a>
 
