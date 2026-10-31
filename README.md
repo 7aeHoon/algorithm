@@ -80,8 +80,8 @@
 - [x] **012 · 기본** [PG 12909. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) — 괄호의 유효성을 검사한다.
 - [x] **013 · 응용** [PG 42586. 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) — 배포 순서와 묶음을 관리한다.
 - [x] **014 · 응용** [PG 42583. 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) — 큐와 시간 흐름을 구현한다.
-- [ ] **015 · 개념** [LC 739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — 각 날짜에서 더 따뜻한 날까지 기다릴 일수를 구한다.
-- [ ] **016 · 응용** [PG 42584. 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) — 단조 스택으로 가격 하락 시점을 처리한다.
+- [x] **015 · 개념** [LC 739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — 각 날짜에서 더 따뜻한 날까지 기다릴 일수를 구한다.
+- [x] **016 · 응용** [PG 42584. 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) — 단조 스택으로 가격 하락 시점을 처리한다.
 
 <a id="topic-04"></a>
 
