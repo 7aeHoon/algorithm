@@ -89,9 +89,9 @@
 
 학습 목표: 최솟값·최댓값 추출, 상위 K개 유지, 양끝 삭제에 맞는 자료구조를 고른다.
 
-- [ ] **017 · 개념** [LC 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) — 가장 무거운 두 돌을 반복해서 꺼내 처리한다.
-- [ ] **018 · 개념** [LC 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — 배열의 K번째 큰 값을 크기 K의 힙으로 찾는다.
-- [ ] **019 · 기본** [PG 42626. 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) — 최솟값 두 개를 반복해서 결합한다.
+- [x] **017 · 개념** [LC 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) — 가장 무거운 두 돌을 반복해서 꺼내 처리한다.
+- [x] **018 · 개념** [LC 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — 배열의 K번째 큰 값을 크기 K의 힙으로 찾는다.
+- [x] **019 · 기본** [PG 42626. 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) — 최솟값 두 개를 반복해서 결합한다.
 - [ ] **020 · 응용** [PG 42628. 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) — multiset으로 최소·최대 삭제를 구현한다.
 - [ ] **021 · 응용** [PG 42627. 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) — 도착 시간과 작업 선택을 분리한다.
 - [ ] **022 · 응용** [PG 12927. 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) — 가장 큰 작업량을 줄이는 선택을 구현한다.
