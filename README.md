@@ -104,11 +104,11 @@
 
 - [x] **023 · 기본** [PG 81301. 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) — 문자열을 스캔하며 토큰을 판별한다.
 - [x] **024 · 기본** [PG 72410. 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) — 명세의 규칙을 순서대로 적용한다.
-- [ ] **025 · 응용** [PG 64065. 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) — 중첩된 표현을 파싱하고 집합을 처리한다.
-- [ ] **026 · 응용** [PG 17686. 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) — 문자와 숫자를 분해하고 정렬한다.
+- [x] **025 · 응용** [PG 64065. 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) — 중첩된 표현을 파싱하고 집합을 처리한다.
+- [x] **026 · 응용** [PG 17686. 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) — 문자와 숫자를 분해하고 정렬한다.
 - [x] **027 · 응용** [PG 17677. 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) — 문자열 전처리와 다중집합을 구현한다.
 - [x] **028 · 응용** [PG 17683. 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) — 시간과 음표 표현을 정규화한다.
-- [ ] **029 · 응용** [PG 17687. N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) — 진법 변환과 출력 순서를 구현한다.
+- [x] **029 · 응용** [PG 17687. N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) — 진법 변환과 출력 순서를 구현한다.
 - [x] **030 · 응용** [PG 60058. 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) — 규칙에 따라 문자열을 분할하고 변환한다.
 
 <a id="topic-06"></a>
